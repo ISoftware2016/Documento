@@ -17,3 +17,9 @@ gearsoft2016
 https://anfix.com/login/
 gear_soft@hotmail.com
 gearsoft2016
+
+SQL REMOTO
+
+54.187.223.208
+sa  
+Escalante123
