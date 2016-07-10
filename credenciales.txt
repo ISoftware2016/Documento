@@ -23,3 +23,20 @@ SQL REMOTO
 54.187.223.208
 sa  
 Escalante123
+
+
+acunetix.com ///SqlInjection
+eddyeu59@gmail.com	
+Escalante_77
+https://ovs.acunetix.com/#/login/?returnUrl=%252F
+
+
+    <add name="LocalSqlServer" connectionString="Data Source=54.187.223.208;Initial Catalog=sw2;Persist Security Info=True;User ID=sa;Password=Escalante123;" providerName="System.Data.SqlClient" />
+    <add name="MyLaboratorio" connectionString="Data Source=(local);Initial Catalog=sw2;Integrated Security=True;" providerName="System.Data.SqlClient" />
+
+
+
+RDS
+instance: SQLRDS
+user: gearsoft
+pass: gearsoft
